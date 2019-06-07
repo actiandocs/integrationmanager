@@ -9,4 +9,4 @@
 - [Glossary](Glossary)
 - [Tutorials](tutorials)
 - **LINKS**
-- [API Docs](http://jbaldwin-redoc.s3-website-us-east-1.amazonaws.com/)
+- [API Docs](http://actian-im-api-docs-us-east-1.s3-website-us-east-1.amazonaws.com/)
