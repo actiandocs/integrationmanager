@@ -6,7 +6,7 @@ The following table lists the browsers that DataConnect Integration Manager supp
 
 **Best Practice** — When possible, use the latest stable release of your web browser to get the benefits of security updates and stability enhancements.
 
-| Browser         | Status          | Notes                                                                                                                                            |
+| Browsers        | Status          | Notes                                                                                                                                            |
 | --------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Microsoft Edgre | Fully Supported |                                                                                                                                                  |
 | Mozilla Firefox | Fully Supported | Using a beta version of Firefox is not recommended, as pre-release versions can be less stable than final releases.                              |

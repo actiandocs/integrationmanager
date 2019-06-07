@@ -3,7 +3,10 @@
 - [Installing Integration Manager](Installing)
 - [Using Integration Manager](Using)
 - [Using Integration Manager API](UsingAPI)
+- [Using File Folder Listener](UsingFileFolderListener)
+- [Worker Configuration](WorkerConfig)
 - [Security Best Practices](Security)
 - [Glossary](Glossary)
+- [Tutorials](tutorials)
 - **LINKS**
 - [API Docs](http://jbaldwin-redoc.s3-website-us-east-1.amazonaws.com/)
